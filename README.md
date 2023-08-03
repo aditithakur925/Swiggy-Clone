@@ -1,1 +1,1 @@
-# Swiggy-Clone
+Description :- This repository is a clone of the popular online food delivery platform Swiggy's website, implemented using HTML and CSS. Swiggy allows users to explore a wide range of restaurants in their area and place orders for food delivery. This clone project provides a visual representation of Swiggy's front-end user interface.
